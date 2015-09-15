@@ -7,7 +7,7 @@ Hereâ€™s your most advanced and flexible web framework. Take a look. Kube doesnâ
 
 ##[Documentation and examples](http://imperavi.com/kube/)
 
-- [Details](http://imperavi.com/kube/css/)
+###[CSS Components](http://imperavi.com/kube/css/)
 - [Typography](http://imperavi.com/kube/css/typography/)
 - [Grid](http://imperavi.com/kube/css/grid/)
 - [Blocks](http://imperavi.com/kube/css/blocks/)
@@ -23,6 +23,7 @@ Hereâ€™s your most advanced and flexible web framework. Take a look. Kube doesnâ
 - [Mixins](http://imperavi.com/kube/css/mixins/)
 - [Icons](http://imperavi.com/kube/css/icons/)
 
+###[Javascript Tools](http://imperavi.com/kube/css/)
 - [Accordion](http://imperavi.com/kube/tools/js-accordion/)
 - [Autocomplete](http://imperavi.com/kube/tools/js-autocomplete/)
 - [Buttons](http://imperavi.com/kube/tools/js-buttons/)
